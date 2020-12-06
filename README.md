@@ -1,31 +1,30 @@
-# Horiseon
+README.md
+Project title: #Horiseon# Landing page
 
-#Horrseon#
-This is a landing page for the company Horiseon...
+##Motivation##: A quick and fast preview of our site
 
-##Prerequisites##
-What you will need to install the software and how...
+##Build Status##: Rachel R expanded on the exsiting code for the Horiseon page to help me it fuction more smoothly 
 
-##Installing##
-Set by set seriese of examples that show you how to instal the programs you'll need..???
+##Code Style##: using both HTML and CSS
 
-##Running The Tests##
-Explain how to run the tests of the system...?
+##Screenshots##: "add pictures!!!"
 
-##Deployment##
-Notes on how you deploy on a live system...:github.io...
+##Tech/framework##: Ex-
+    Built with
+        Help from coding bootcamp
 
-##Built With##
-Shout out to everyone who helped 
+    ###Features###: what makes my project special
 
-###Contributing##
-Code of conduct and the process for submitting pull requests... thank you
+##Code Example##: show a bit of API, but make sure your code is short and concise
 
-##Authors##
-UW online Bootcamp, Rachel R, see also "list of other contibutors"
+##API Reference##: if small okay, but if med/large add link where API ref lives
 
-##Licence##
-This project is licensed under...
+Tests: Describe and show how to run tests...? (not sure if this is needed)
 
-##Acknowledgments##
-Anyone whos code was used, insperration, anyone who helped at all!
+##How to Use##: Included step by step guide to use your project
+
+##Contribute##: Let people know how they can contribute to your project
+
+##Credits##: Give proper credits; insperation, blogpost, or links to people who have helped with the project
+
+##License##: A short bit describing the license
