@@ -1,31 +1,31 @@
 # Horiseon
 
-#Horrseon#
+# Horiseon #
 This is a landing page for the company Horiseon...
 
-##Prerequisites##
+## Prerequisites ##
 What you will need to install the software and how...
 
-##Installing##
+## Installing ##
 Set by set seriese of examples that show you how to instal the programs you'll need..???
 
-##Running The Tests##
+## Running The Tests ##
 Explain how to run the tests of the system...?
 
-##Deployment##
+## Deployment ##
 Notes on how you deploy on a live system...:github.io...
 
-##Built With##
+## Built With ##
 Shout out to everyone who helped 
 
-###Contributing##
+### Contributing ##
 Code of conduct and the process for submitting pull requests... thank you
 
-##Authors##
+## Authors ##
 UW online Bootcamp, Rachel R, see also "list of other contibutors"
 
-##Licence##
+## Licence ##
 This project is licensed under...
 
-##Acknowledgments##
+## Acknowledgments ##
 Anyone whos code was used, insperration, anyone who helped at all!
