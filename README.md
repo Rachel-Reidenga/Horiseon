@@ -1,11 +1,11 @@
 
 # Horiseon 
 
-This is a landing page for the company Horiseon...
+This is a landing page for the company Horiseon
 
 ## Build Status 
 
-Rachel R expanded on the exsiting code for the Horiseon page to help me it fuction more smoothly 
+Rachel R expanded on the exsiting code for the Horiseon page to help it fuction more smoothly 
 
 ## Code Style 
 
@@ -13,7 +13,9 @@ using both HTML and CSS
 
 ## Screenshots
 
-Add pictures!!!
+![Top of page](project/../screenshots/Screen%20Shot%202020-12-06%20at%202.08.37%20PM.png)
+![Middle of page](project/../screenshots/Screen%20Shot%202020-12-06%20at%202.08.47%20PM.png)
+![Bottom of page](projcet/../screenshots/Screen%20Shot%202020-12-06%20at%202.08.52%20PM.png)
 
 ## Tech framework 
 
@@ -30,7 +32,7 @@ Show a bit of API, but make sure your code is short and concise
 
 ## Deployment 
 
-Link to <a href="https://www.google.com/" target="_blank"></a>
+Link to [Horiseon](https://www.google.com)
 
 ## Built With 
 
