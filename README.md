@@ -5,11 +5,16 @@ This is a landing page for the company Horiseon
 
 ## Build Status 
 
-Rachel R expanded on the exsiting code for the Horiseon page to help it fuction more smoothly 
+Rachel R expanded on the exsiting code for the Horiseon page to help it function more smoothly 
 
-## Code Style 
+## Deployment 
 
-using both HTML and CSS
+Link to [Horiseon](https://github.com/rachel-reidenga/horiseon)
+
+Link to code on [GitHub](https://github.com/Rachel-Reidenga/Horiseon/blob/Rachel-Reidenga.github.io/index.html)
+
+Link to repository on [GitHub](https://github.com/Rachel-Reidenga/Horiseon)
+
 
 ## Screenshots
 
@@ -17,24 +22,6 @@ using both HTML and CSS
 ![Middle of page](project/../screenshots/Screen%20Shot%202020-12-06%20at%202.08.47%20PM.png)
 ![Bottom of page](projcet/../screenshots/Screen%20Shot%202020-12-06%20at%202.08.52%20PM.png)
 
-## Tech framework 
-
-Ex-
-    Built with
-        Help from coding bootcamp
-
-    ### Features 
-    what makes my project special
-
-## Code Example 
-
-Show a bit of API, but make sure your code is short and concise
-
-## Deployment 
-
-Link to [Horiseon](https://github.com/rachel-reidenga/horiseon)
-
-Link to code on [GitHub](https://github.com/Rachel-Reidenga/Horiseon/blob/Rachel-Reidenga.github.io/index.html)
 
 ## Built With 
 
