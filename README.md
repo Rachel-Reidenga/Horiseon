@@ -30,7 +30,7 @@ Show a bit of API, but make sure your code is short and concise
 
 ## Deployment 
 
-Notes on how you deploy on a live system...:github.io...
+Link to <a href="https://www.google.com/" target="_blank"></a>
 
 ## Built With 
 
