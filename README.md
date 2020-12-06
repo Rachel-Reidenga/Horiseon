@@ -32,25 +32,18 @@ Show a bit of API, but make sure your code is short and concise
 
 ## Deployment 
 
-Link to [Horiseon](https://www.google.com)
+Link to [Horiseon](https://github.com/rachel-reidenga/horiseon)
+
+Link to code on [GitHub](https://github.com/Rachel-Reidenga/Horiseon/blob/Rachel-Reidenga.github.io/index.html)
 
 ## Built With 
 
-Shout out to everyone who helped 
+Shout out to Tanetta J, Monica H and Paul C
 
-### Contributing 
-
-Code of conduct and the process for submitting pull requests... thank you
-
-## Authors 
-
-UW online Bootcamp, Rachel R, see also "list of other contibutors"
-
-## Licence 
-
-This project is licensed under
 
 ## Acknowledgments 
 
-Anyone whos code was used, insperration, anyone who helped at all
+[Stackoverflow](https://stackoverflow.com/) 
+
+[w3schools](https://www.w3schools.com/)
 
