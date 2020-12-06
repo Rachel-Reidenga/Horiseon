@@ -5,11 +5,11 @@ This is a landing page for the company Horiseon
 
 ## Build Status 
 
-Rachel R expanded on the exsiting code for the Horiseon page to help it function more smoothly 
+Rachel R expanded on the existing code for the Horiseon page to help it function more smoothly 
 
 ## Deployment 
 
-Link to [Horiseon](https://github.com/rachel-reidenga/horiseon)
+Link to [Horiseon](https://rachel-reidenga.github.io/)
 
 Link to code on [GitHub](https://github.com/Rachel-Reidenga/Horiseon/blob/Rachel-Reidenga.github.io/index.html)
 
